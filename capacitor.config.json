@@ -1,0 +1,8 @@
+{
+  "appId": "com.torip.kvas",
+  "appName": "Квас",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#faf6ee"
+  }
+}
